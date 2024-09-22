@@ -51,14 +51,18 @@ It is recommended to use automatic allocation of the working area to avoid scann
 ``` bilateral_filter_flag = True ```
 
 ### Libraries used
-OpenCV
-``` pip install opencv-python ```
-
-NumPy
-``` pip install numpy ```
-
-PyCryptodome
-``` pip install pycryptodome ```
+&emsp; OpenCV
+``` 
+pip install opencv-python
+```
+&emsp; NumPy
+``` 
+pip install numpy
+```
+&emsp; PyCryptodome
+``` 
+pip install pycryptodome
+```
 
 
 ## Tests
